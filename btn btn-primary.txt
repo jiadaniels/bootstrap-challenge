@@ -1,0 +1,15 @@
+logo (done)
+navbar (done)
+contact - form (done)
+products - carousel/cards (dropdown buttons/modal on cards ... dropdown in navbar)
+about
+
+
+tooltips (over anything) (done)
+
+landing
+banner image
+
+footer (done)
+terms and conditions - link (done)
+
