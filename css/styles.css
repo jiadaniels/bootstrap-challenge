@@ -8,12 +8,13 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
+
 }
 
 .blink{
     display: flex;
     justify-content: space-between;
-    color: rgb(153, 153, 153);
+    color: rgb(19, 19, 19);
     padding: 2px 200px;
     font-size: 30px;
     animation: blinker 0.5s linear infinite;
